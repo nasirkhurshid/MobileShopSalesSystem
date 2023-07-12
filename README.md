@@ -1,2 +1,2 @@
 # MobileShopSalesSystem
-A mobile shop sales system developed in C++ that allows users to manage and track information about available mobile phones.
+A mobile shop sales system developed in C++ that allows users to manage and track information about available mobile phones. The system enables adding, searching, updating, and deleting mobile phones, offering various search criteria. It loads mobile phone data from a file upon startup, creating the file if it doesn't exist, and ensures that all changes are reflected in the file. The system provides a console-based menu for easy interaction and does not employ arrays for data storage.
